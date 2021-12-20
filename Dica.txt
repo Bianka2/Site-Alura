@@ -1,0 +1,20 @@
+Mobile input types - Alura
+/* comenatrio */:para fazer 
+Em (medida proporcional para px) o tamanho base é 15px se eu adiciono 2em eu estou dizendo que é o dobro de 15px
+google fonts (montserrat)
+google maps para colar um mapa da sua pagina 
+Unicode stars
+Seletores avançados CSS
+Seletor >, para acessar os filhos de determinado elemento. Por exemplo, para acessar todos os p dentro de main:
+main > p {
+}COPIAR CÓDIGO
+Seletor +, para acessar o primeiro irmão de determinado elemento. Por exemplo, para acessar o primeiro p após um img:
+img + p {
+}COPIAR CÓDIGO
+Seletor ~, para acessar todos os irmãos de determinado elemento. Por exemplo, para acessar todos os p após um img:
+img ~ p {
+}COPIAR CÓDIGO
+Seletor not, para acessar os elementos, exceto algum. Por exemplo, para acessar todos os p dentro de main, exceto o p que tem id missao:
+main p:not(#missao) {
+}COPIAR CÓDIGO
+Como fazer contas com CSS, com a propriedade calc
